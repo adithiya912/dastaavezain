@@ -104,7 +104,7 @@ functions/
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/dastaavezain.git
+git clone https://github.com/adithiya912/dastaavezain.git
 cd dastaavezain
 ```
 
@@ -452,9 +452,9 @@ in the Software without restriction...
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/)
 
-See also the list of [contributors](https://github.com/yourusername/dastaavezain/contributors) who participated in this project.
+See also the list of [contributors](https://github.com//dastaavezain/contributors) who participated in this project.
 
 ---
 
@@ -470,8 +470,8 @@ See also the list of [contributors](https://github.com/yourusername/dastaavezain
 
 ## 📞 Support
 
-- **Documentation**: [GitHub Wiki](https://github.com/yourusername/dastaavezain/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/dastaavezain/issues)
+- **Documentation**: [GitHub Wiki](https://github.com//dastaavezain/wiki)
+- **Issues**: [GitHub Issues](https://github.com//dastaavezain/issues)
 - **Email**: support@dastaavezain.com
 - **Community**: [Discord Server](https://discord.gg/dastaavezain)
 
@@ -542,7 +542,7 @@ This application uses AI for document processing. While we strive for accuracy:
 
 If you find this project useful, please consider giving it a star ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/dastaavezain&type=Date)](https://star-history.com/#yourusername/dastaavezain&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=/dastaavezain&type=Date)](https://star-history.com/#/dastaavezain&Date)
 
 ---
 
