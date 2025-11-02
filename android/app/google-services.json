@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932960138613",
+    "project_id": "dastaavezain",
+    "storage_bucket": "dastaavezain.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932960138613:android:962fe5e92906d2f5c38f3c",
+        "android_client_info": {
+          "package_name": "com.example.dastaavezain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932960138613-h4f4h6pe243ibsb38ilj23g83vva51ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dastaavezain",
+            "certificate_hash": "7e5f832159a41a43e524839e88e616e2cd160b6d"
+          }
+        },
+        {
+          "client_id": "932960138613-3ohn97udo20eaup0k4m6u9otnsp8afak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQVualwuTpCP9gvA_2MWLV6ZBkPm-WbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932960138613-3ohn97udo20eaup0k4m6u9otnsp8afak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
